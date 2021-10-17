@@ -70,6 +70,8 @@ sudo tar -xf jdk-8.tar.gz
 
 sudo mv jdk-8 /usr/lib/jvm
 
+sudo rm jdk-8.tar.gz
+
 sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-8/bin/java 1
 
 sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk-8/bin/javac 1
