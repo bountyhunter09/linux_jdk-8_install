@@ -16,6 +16,6 @@ chmod +x jdk8.sh
 
 ./jdk8.sh
 
-and select jdk manually
+and select jdk-8 manually
 
 thank you......................
