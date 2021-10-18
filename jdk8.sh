@@ -87,6 +87,6 @@ sleep 1
 echo -e "${none}Java path in --> ${none}"
 echo $JAVA_HOME
 echo -e "${try}Now Try to run Burpsuite Loader${try}"
-echo -e "${red}                                               Coded By ${bold}R3D_D3ViL${red}"
+echo -e "${red}                                               Coded By ${bold}R3D_D3ViL(Cyber-71)${red}"
 
 fi
